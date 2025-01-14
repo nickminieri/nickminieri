@@ -23,7 +23,6 @@ I'm Nicholas Minieri, an Electrical Engineering student with a passion for big t
 - 🤝 **Collaborating on:** Projects at the intersection of hardware and software
 - 💬 **Ask me about:** EV battery technology, MATLAB simulations, and industrial control systems
 - 📫 **Reach me at:** [nicholasminieri@gmail.com](mailto:nicholasminieri@gmail.com)
-- ⚡ **Fun Fact:** I built a smart mirror as a side project to merge software and hardware seamlessly.
 
 ---
 
