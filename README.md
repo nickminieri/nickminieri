@@ -26,12 +26,6 @@ I'm Nicholas Minieri, an Electrical Engineering student with a passion for big t
 
 ---
 
-### 📈 GitHub Stats
-
-![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickminieri&show_icons=true&theme=radical)
-
----
-
 ### 🚀 My Featured Projects
 
 - **[Gotcha - College MarketPlace App](https://github.com/nickminieri/Gotcha):** 
