@@ -19,6 +19,7 @@ I'm Nicholas Minieri, an Electrical Engineering student with a passion for big t
 - 🔭 **Current Projects:** 
   - Leading Clemson University's Battery Workforce Challenge Vehicle Integration Team 
   - Designing a secure water treatment control system using General Electric Mark 60 PLCs
+  - Creating an AI Document Summarizer with Python using NLP models.
 - 🌱 **Learning:** Advanced system stability, cybersecurity in ICS, and LeetCode challenges
 - 🤝 **Collaborating on:** Projects at the intersection of hardware and software
 - 💬 **Ask me about:** EV battery technology, MATLAB simulations, and industrial control systems
