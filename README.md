@@ -1,6 +1,6 @@
-## Hi there 👋 Welcome to my GitHub Profile!
+# Hi there 👋 Welcome to my GitHub profile!
 
-I'm Nicholas Minieri, an Electrical Engineering student with a passion for big tech, EV battery technology, and industrial control systems. I'm excited to share my journey, projects, and skills here!
+I'm **Nicholas Minieri**, an Electrical Engineering student passionate about big tech, EV battery technology, and industrial control systems. I love working at the intersection of hardware and software — and this is where I share my journey, projects, and skills.
 
 ---
 
@@ -16,27 +16,34 @@ I'm Nicholas Minieri, an Electrical Engineering student with a passion for big t
 
 ### 🌟 About Me
 
-- 🔭 **Current Projects:** 
-  - Leading Clemson University's Battery Workforce Challenge Vehicle Integration Team 
+- 🔭 **Current projects:**
+  - Leading Clemson University's Battery Workforce Challenge Vehicle Integration Team
   - Designing a secure water treatment control system using General Electric Mark 60 PLCs
-  - Creating an AI Document Summarizer with Python using NLP models.
-- 🌱 **Learning:** Advanced system stability, cybersecurity in ICS, and LeetCode challenges
+  - Building an AI document summarizer in Python using NLP models
+- 🌱 **Currently learning:** Advanced system stability, cybersecurity in ICS, and LeetCode challenges
 - 🤝 **Collaborating on:** Projects at the intersection of hardware and software
 - 💬 **Ask me about:** EV battery technology, MATLAB simulations, and industrial control systems
 - 📫 **Reach me at:** [nicholasminieri@gmail.com](mailto:nicholasminieri@gmail.com)
 
 ---
 
-### 🚀 My Featured Projects
+### 🚀 Featured Projects
 
-- **[Gotcha - College MarketPlace App](https://github.com/nickminieri/Gotcha):** 
-  Digital Marketplace for College Students that Prioritizes Safety.
+- **[Gotcha — College Marketplace App](https://github.com/nickminieri/Gotcha)**
+  A digital marketplace for college students that prioritizes safety.
 
-- **[Temperature Data Simulation Matlab Script](https://github.com/nickminieri/TemperatureData):**
-  A Matlab Script That Creates Heatmap, line plot, box plot, histogram, scatter plot, and bar plot all created for heat signature data detected from EV cars.
+- **[Temperature Data Simulation MATLAB Script](https://github.com/nickminieri/TemperatureData)**
+  A MATLAB script that generates heatmaps, line plots, box plots, histograms, scatter plots, and bar plots from heat-signature data detected on EV cars.
 
-- **[Smart Mirror Project](https://github.com/nickminieri/smart-mirror):**
-  A Raspberry Pi-powered display system combining technology and innovation. (Git Repository Coming Soon)
+- **[Smart Mirror Project](https://github.com/nickminieri/smart-mirror)**
+  A Raspberry Pi–powered display system combining technology and innovation. *(Repository coming soon)*
+
+---
+
+### 📊 GitHub Stats
+
+![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickminieri&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickminieri&layout=compact&theme=tokyonight)
 
 ---
 
@@ -47,9 +54,10 @@ I'm Nicholas Minieri, an Electrical Engineering student with a passion for big t
 
 ---
 
-### 🎯 Goals for 2025
+### 🎯 Goals for 2026
 
-- Build proficiency in coding and system optimization
+- Build deeper proficiency in coding and system optimization
 - Contribute to open-source projects
+- Grow expertise in EV battery systems and ICS cybersecurity
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's innovate together! 🚀
