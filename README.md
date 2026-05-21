@@ -50,13 +50,6 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company and a 
 
 ---
 
-### 📊 GitHub Stats
-
-![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickminieri&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickminieri&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/nicholas-minieri)
