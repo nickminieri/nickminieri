@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to my GitHub profile!
 
-I'm **Nicholas Minieri**, an Electrical Engineering graduate and software developer who designs and ships his own full-stack products. I like working at the intersection of engineering, software, and good design — and this is where I share what I'm building.
+I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company and a 2025 Clemson University graduate (BS in Electrical Engineering). On the side, I design and build my own software products, and this is where I share what I'm working on.
 
 ---
 
@@ -29,20 +29,20 @@ I'm **Nicholas Minieri**, an Electrical Engineering graduate and software develo
 ### 🌟 About Me
 
 - 🔭 **Currently building:**
-  - **ProfileDraft** — an AI-powered tool that writes complete, voice-matched LinkedIn profiles
-  - **Quillark** — a productized content service that turns one long-form source a week into nine platform-ready pieces
-- 🌱 **Learning:** Shipping and scaling solo products — distribution, conversion, and prompt engineering
-- 💬 **Ask me about:** Building products end-to-end, Next.js & Astro, and going from EE to full-stack software
+  - **ProfileDraft**: an AI-powered tool that writes complete, voice-matched LinkedIn profiles
+  - **Quillark**: a productized content service that turns one long-form source a week into nine platform-ready pieces
+- 🌱 **Learning:** Shipping and scaling solo products: distribution, conversion, and prompt engineering
+- 💬 **Ask me about:** Building products end-to-end, Next.js & Astro, and shipping side projects
 - 📫 **Reach me at:** [nicholasminieri@gmail.com](mailto:nicholasminieri@gmail.com)
 
 ---
 
 ### 🚀 Featured Projects
 
-- **ProfileDraft** — [profiledraft.net](https://www.profiledraft.net)
-  An AI-powered micro-SaaS that writes a complete, voice-matched LinkedIn profile — headline options, About section, experience bullets, a skills list, and a Social Selling Index improvement plan — from a short intake form. Built with Next.js, the Claude API, Stripe, and Redis.
+- **ProfileDraft** ([profiledraft.net](https://www.profiledraft.net))
+  An AI-powered micro-SaaS that writes a complete, voice-matched LinkedIn profile (headline options, About section, experience bullets, a skills list, and a Social Selling Index improvement plan) from a short intake form. Built with Next.js, the Claude API, Stripe, and Redis.
 
-- **Quillark** — [quillark.com](https://quillark.com)
+- **Quillark** ([quillark.com](https://quillark.com))
   A productized content service: send one long-form source each week (a podcast, talk, or essay) and get back nine platform-ready, hand-edited, voice-matched pieces. Built as an Astro + Tailwind site deployed on Vercel.
 
 - **[Fantasy Football Player Tracker](https://github.com/nickminieri/Fantasy-Football-Player-Tracker)**
