@@ -42,7 +42,7 @@ I'm **Nicholas Minieri**, an Electrical Engineering graduate and software develo
 - **ProfileDraft** — [profiledraft.net](https://www.profiledraft.net)
   An AI-powered micro-SaaS that writes a complete, voice-matched LinkedIn profile — headline options, About section, experience bullets, a skills list, and a Social Selling Index improvement plan — from a short intake form. Built with Next.js, the Claude API, Stripe, and Redis.
 
-- **Quillark** *(private)*
+- **Quillark** — [quillark.com](https://quillark.com)
   A productized content service: send one long-form source each week (a podcast, talk, or essay) and get back nine platform-ready, hand-edited, voice-matched pieces. Built as an Astro + Tailwind site deployed on Vercel.
 
 - **[Fantasy Football Player Tracker](https://github.com/nickminieri/Fantasy-Football-Player-Tracker)**
