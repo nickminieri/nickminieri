@@ -29,8 +29,8 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
 
 ### 🌟 About Me
 
-- 🔭 **Currently building:** The **...Keep** family of iOS apps, local-first and privacy-focused (SwiftUI + SwiftData)
-- 🌱 **Learning:** Indie iOS design patterns, App Store growth, and marketing small, focused apps
+- 🔭 **Currently building:** The **...Keep** family of iOS apps, eight live, local-first and privacy-focused (SwiftUI + SwiftData), plus a pixel-art game in the works
+- 🌱 **Learning:** App Store growth for small focused apps, iPhone Duo layouts, and research-first product design
 - 💬 **Ask me about:** SwiftUI + SwiftData, shipping indie iOS apps, and balancing engineering with side projects
 - 📫 **Reach me at:** [nicholasminieri@gmail.com](mailto:nicholasminieri@gmail.com)
 
@@ -38,30 +38,35 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
 
 ### 🚀 Featured Projects
 
-**The ...Keep family** (iOS, SwiftUI + SwiftData, local-first and privacy-focused)
+**The ...Keep family** (iOS, SwiftUI + SwiftData, local-first and privacy-focused: no accounts, no ads, no third-party SDKs, nothing collected). All eight are live on the App Store. Updated November 2026.
 
-- **[BabyKeep: Baby Tracker & Log](https://apps.apple.com/us/app/babykeep-baby-tracker-log/id6788453754)**
-  A private daily-care tracker for newborns and babies.
+- **[QuitKeep: Quit Vaping & Habits](https://apps.apple.com/us/app/id6784056917)**
+  Quit vaping, smoking, drinking or any habit and watch one tree grow with every day you win. Craving SOS, a mission a day, Live Activities for the first 72 hours, iPhone Duo layouts, four tree seasons. English, German, French.
 
-- **[BetKeep: Quit Gambling](https://apps.apple.com/us/app/betkeep-quit-gambling/id6811402448)**
-  A private companion for quitting gambling and rebuilding healthier habits.
+- **[HeartKeep: No Contact Tracker](https://apps.apple.com/us/app/id6787455540)**
+  Breakup recovery and no-contact tracking, one day at a time, with a garden that grows as you heal. English, German, French.
 
-- **[BibleKeep: Bible Explained](https://apps.apple.com/us/app/biblekeep-bible-explained/id6794950894)**
-  Daily Bible lessons for beginners, hand-written and grounded in the BSB.
+- **[DoseKeep: Medication Reminder](https://apps.apple.com/us/app/id6783024511)**
+  Pill, vitamin and pet-medication reminders with a night-sky view of the day. English, German, French.
 
-- **[DoseKeep: Medication Reminder](https://apps.apple.com/us/app/dosekeep-medication-reminder/id6783024511)**
-  A private medication reminder and tracker for people and pets (English and German).
+- **[ScrollKeep: Stop Doomscrolling](https://apps.apple.com/us/app/id6813714616)**
+  Shuts the feed until tonight with Screen Time shields, then gives the evening back. English, German.
 
-- **[HeartKeep: Breakup Recovery](https://apps.apple.com/us/app/heartkeep-breakup-recovery/id6787455540)**
-  A private breakup-recovery companion, one-time purchase.
+- **[BetKeep: Quit Gambling](https://apps.apple.com/us/app/id6811402448)**
+  A private companion for quitting sports betting and casino play, written as a book of chapters. English, German.
 
-- **[QuitKeep: Quit Vaping & Habits](https://apps.apple.com/us/app/quitkeep-quit-vaping-habits/id6784056917)**
-  A private multi-substance quit and sobriety tracker.
+- **[BabyKeep: Baby Tracker & Log](https://apps.apple.com/us/app/id6788453754)**
+  Feeding, sleep and diaper logging for newborns, with Live Activities for the current feed or nap.
 
-**In progress**
+- **[BibleKeep: Daily Bible Lessons](https://apps.apple.com/us/app/id6794950894)**
+  Hand-written daily Bible lessons for beginners, grounded in the BSB, with In-App Events for the church calendar.
 
-- **ScrollKeep**: a new addition to the ...Keep family, in active development.
-- **Lanternfall**: a new iOS project, in active development.
+- **[Lanternfall: Forest Tactics](https://apps.apple.com/us/app/id6809476686)**
+  A hex-grid tactics roguelite where your lantern is the weapon. Built with SpriteKit and GameKit.
+
+**How they are built**
+
+- Swift 6 and SwiftUI, SwiftData on device, StoreKit 2, WidgetKit, Live Activities, App Intents, Screen Time APIs. Store screenshots, creative assets and App Store Connect releases are driven by a homemade Python toolchain over the App Store Connect API.
 
 **Other projects**
 
@@ -79,7 +84,7 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
 
 ### 🎯 Goals for 2026
 
-- Grow the ...Keep family with more launches and more users
+- Grow the ...Keep family: more users, more languages, Apple Watch
 - Keep learning App Store growth and indie marketing
 - Ship more small, useful tools
 
