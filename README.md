@@ -59,7 +59,7 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
   Feeding, sleep and diaper logging for newborns, with Live Activities for the current feed or nap.
 
 - **[BibleKeep: Daily Bible Lessons](https://apps.apple.com/us/app/id6794950894)**
-  Hand-written daily Bible lessons for beginners, grounded in the BSB, with In-App Events for the church calendar.
+  Hand-written daily Bible lessons for beginners, grounded in the BSB, with In-App Events for the church calendar. On iPhone Duo the open phone is a book: fixed pages that curl, the passage beside the teaching.
 
 - **[Lanternfall: Forest Tactics](https://apps.apple.com/us/app/id6809476686)**
   A hex-grid tactics roguelite where your lantern is the weapon. Built with SpriteKit and GameKit.
