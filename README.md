@@ -49,8 +49,7 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
   *In review (3.5):* Quiet hours, a Screen Time pause on the apps where you would look.
 
 - **[DoseKeep: Medication Reminder](https://apps.apple.com/us/app/id6783024511)**
-  Pill, vitamin and pet-medication reminders with a night-sky view of the day. English, German, French.
-  *In review (2.17):* as-needed doses with a safe-spacing count, a medication list for appointments, and logging by Siri or the Action button.
+  Pill, vitamin and pet-medication reminders with a night-sky view of the day. As-needed doses counted against your own 24-hour limit, a medication list for appointments, and logging by Siri, Control Center or the Action button. English, German, French.
 
 - **[ScrollKeep: Stop Doomscrolling](https://apps.apple.com/us/app/id6813714616)**
   Shuts the feed until tonight with Screen Time shields, then gives the evening back. English, German.
