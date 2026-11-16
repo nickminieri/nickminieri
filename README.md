@@ -41,8 +41,7 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
 **The ...Keep family** (iOS, SwiftUI + SwiftData, local-first and privacy-focused: no accounts, no ads, no third-party SDKs, nothing collected). All eight are live on the App Store. Updated November 2026.
 
 - **[QuitKeep: Quit Vaping & Habits](https://apps.apple.com/us/app/id6784056917)**
-  Quit vaping, smoking, drinking or any habit and watch one tree grow with every day you win. Craving SOS, a mission a day, Live Activities for the first 72 hours, iPhone Duo layouts, four tree seasons. English, German, French.
-  *In review (3.6):* a cut-down plan for people who taper instead of stopping at once.
+  Quit vaping, smoking, drinking or any habit and watch one tree grow with every day you win. Craving SOS, a mission a day, Live Activities for the first 72 hours, iPhone Duo layouts, a cut-down plan for people who taper instead of stopping at once, and a tree that can follow the real seasons. English, German, French.
 
 - **[HeartKeep: No Contact Tracker](https://apps.apple.com/us/app/id6787455540)**
   Breakup recovery and no-contact tracking, one day at a time, with a garden that grows as you heal. English, German, French.
