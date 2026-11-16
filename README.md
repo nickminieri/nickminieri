@@ -42,12 +42,15 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
 
 - **[QuitKeep: Quit Vaping & Habits](https://apps.apple.com/us/app/id6784056917)**
   Quit vaping, smoking, drinking or any habit and watch one tree grow with every day you win. Craving SOS, a mission a day, Live Activities for the first 72 hours, iPhone Duo layouts, four tree seasons. English, German, French.
+  *In review (3.6):* a cut-down plan for people who taper instead of stopping at once.
 
 - **[HeartKeep: No Contact Tracker](https://apps.apple.com/us/app/id6787455540)**
   Breakup recovery and no-contact tracking, one day at a time, with a garden that grows as you heal. English, German, French.
+  *In review (3.5):* Quiet hours, a Screen Time pause on the apps where you would look.
 
 - **[DoseKeep: Medication Reminder](https://apps.apple.com/us/app/id6783024511)**
   Pill, vitamin and pet-medication reminders with a night-sky view of the day. English, German, French.
+  *In review (2.17):* as-needed doses with a safe-spacing count, a medication list for appointments, and logging by Siri or the Action button.
 
 - **[ScrollKeep: Stop Doomscrolling](https://apps.apple.com/us/app/id6813714616)**
   Shuts the feed until tonight with Screen Time shields, then gives the evening back. English, German.
@@ -62,7 +65,8 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
   Hand-written daily Bible lessons for beginners, grounded in the BSB, with In-App Events for the church calendar. On iPhone Duo the open phone is a book: fixed pages that curl, the passage beside the teaching.
 
 - **[Lanternfall: Forest Tactics](https://apps.apple.com/us/app/id6809476686)**
-  A hex-grid tactics roguelite where your lantern is the weapon. Built with SpriteKit and GameKit.
+  A hex-grid tactics roguelite where your lantern is the weapon. Built in SwiftUI with GameKit.
+  *In review (2.1):* an iPhone Duo layout where the board fills the open screen, burdens, ten new boons, Game Center achievements, and forests you can share by name.
 
 **How they are built**
 
