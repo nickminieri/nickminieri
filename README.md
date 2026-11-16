@@ -29,7 +29,7 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
 
 ### 🌟 About Me
 
-- 🔭 **Currently building:** The **...Keep** family of iOS apps, eight live, local-first and privacy-focused (SwiftUI + SwiftData), plus a pixel-art game in the works
+- 🔭 **Currently building:** The **...Keep** family of iOS apps, seven live, local-first and privacy-focused (SwiftUI + SwiftData), plus Lanternfall, a tactics game on the App Store, and a pixel-art game in the works
 - 🌱 **Learning:** App Store growth for small focused apps, iPhone Duo layouts, and research-first product design
 - 💬 **Ask me about:** SwiftUI + SwiftData, shipping indie iOS apps, and balancing engineering with side projects
 - 📫 **Reach me at:** [nicholasminieri@gmail.com](mailto:nicholasminieri@gmail.com)
@@ -38,7 +38,7 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
 
 ### 🚀 Featured Projects
 
-**The ...Keep family** (iOS, SwiftUI + SwiftData, local-first and privacy-focused: no accounts, no ads, no third-party SDKs, nothing collected). All eight are live on the App Store. Updated November 2026.
+**The ...Keep family** (iOS, SwiftUI + SwiftData, local-first and privacy-focused: no accounts, no ads, no third-party SDKs, nothing about you collected). All seven are live on the App Store. Updated November 2026.
 
 - **[QuitKeep: Quit Vaping & Habits](https://apps.apple.com/us/app/id6784056917)**
   Quit vaping, smoking, drinking or any habit and watch one tree grow with every day you win. Craving SOS, a mission a day, Live Activities for the first 72 hours, iPhone Duo layouts, a cut-down plan for people who taper instead of stopping at once, and a tree that can follow the real seasons. English, German, French.
@@ -62,11 +62,13 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
 - **[BibleKeep: Daily Bible Lessons](https://apps.apple.com/us/app/id6794950894)**
   Hand-written daily Bible lessons for beginners, grounded in the BSB, with In-App Events for the church calendar. On iPhone Duo the open phone is a book: fixed pages that curl, the passage beside the teaching.
 
+**Games**
+
 - **[Lanternfall: Forest Tactics](https://apps.apple.com/us/app/id6809476686)**
   A hex-grid tactics roguelite where your lantern is the weapon. Built in SwiftUI with GameKit.
   *In review (2.1):* an iPhone Duo layout where the board fills the open screen, burdens, ten new boons, Game Center achievements, and forests you can share by name.
 
-**How they are built**
+**How they are all built**
 
 - Swift 6 and SwiftUI, SwiftData on device, StoreKit 2, WidgetKit, Live Activities, App Intents, Screen Time APIs. Store screenshots, creative assets and App Store Connect releases are driven by a homemade Python toolchain over the App Store Connect API.
 
