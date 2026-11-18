@@ -44,8 +44,7 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
   Quit vaping, smoking, drinking or any habit and watch one tree grow with every day you win. Craving SOS, a mission a day, Live Activities for the first 72 hours, iPhone Duo layouts, a cut-down plan for people who taper instead of stopping at once, and a tree that can follow the real seasons. English, German, French.
 
 - **[HeartKeep: No Contact Tracker](https://apps.apple.com/us/app/id6787455540)**
-  Breakup recovery and no-contact tracking, one day at a time, with a garden that grows as you heal. English, German, French.
-  *In review (3.5):* Quiet hours, a Screen Time pause on the apps where you would look.
+  Breakup recovery and no-contact tracking, one day at a time, with a garden that grows as you heal. Quiet hours puts a Screen Time pause in front of the apps where you would look. English, German, French.
 
 - **[DoseKeep: Medication Reminder](https://apps.apple.com/us/app/id6783024511)**
   Pill, vitamin and pet-medication reminders with a night-sky view of the day. As-needed doses counted against your own 24-hour limit, a medication list for appointments, and logging by Siri, Control Center or the Action button. English, German, French.
@@ -65,8 +64,7 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
 **Games**
 
 - **[Lanternfall: Forest Tactics](https://apps.apple.com/us/app/id6809476686)**
-  A hex-grid tactics roguelite where your lantern is the weapon. Built in SwiftUI with GameKit.
-  *In review (2.1):* an iPhone Duo layout where the board fills the open screen, burdens, ten new boons, Game Center achievements, and forests you can share by name.
+  A hex-grid tactics roguelite where your lantern is the weapon. On iPhone Duo the board fills the open screen. Burdens, thirty-one boons, Game Center achievements, and forests you can share by name. Built in SwiftUI with GameKit.
 
 **How they are all built**
 
