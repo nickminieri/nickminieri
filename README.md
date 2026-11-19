@@ -53,7 +53,7 @@ I'm **Nicholas Minieri**, an Applications Engineer at The Okonite Company by day
   Shuts the feed until tonight with Screen Time shields, then gives the evening back. English, German.
 
 - **[BetKeep: Quit Gambling](https://apps.apple.com/us/app/id6811402448)**
-  A private companion for quitting sports betting and casino play, written as a book of chapters. English, German.
+  A private app for quitting sports betting and casino play. It blocks betting apps and sites, counts the nights you win and keeps the money. English, German.
 
 - **[BabyKeep: Baby Tracker & Log](https://apps.apple.com/us/app/id6788453754)**
   Feeding, sleep and diaper logging for newborns, with Live Activities for the current feed or nap.
